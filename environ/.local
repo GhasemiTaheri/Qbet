@@ -1,0 +1,2 @@
+SECRET_KEY=django-insecure-fgk^rgix$vao9e^&7c9m14wp4a&r6)8$(*ws23s%s1@54dafr0
+DATABASE_URL=psql://postgres:p@ssw0rd@127.0.0.1:5432/qbet
